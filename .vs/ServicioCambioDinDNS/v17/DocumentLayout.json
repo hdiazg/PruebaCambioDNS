@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|c:\\users\\vygde\\source\\repos\\serviciocambiodindns\\serviciocambiodindns\\job\\checkdindns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|solutionrelative:serviciocambiodindns\\job\\checkdindns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|c:\\users\\vygde\\source\\repos\\serviciocambiodindns\\serviciocambiodindns\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|solutionrelative:serviciocambiodindns\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|c:\\users\\vygde\\source\\repos\\serviciocambiodindns\\serviciocambiodindns\\tools\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|solutionrelative:serviciocambiodindns\\tools\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|c:\\users\\vygde\\source\\repos\\serviciocambiodindns\\serviciocambiodindns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|solutionrelative:serviciocambiodindns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|c:\\users\\vygde\\source\\repos\\serviciocambiodindns\\serviciocambiodindns\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|solutionrelative:serviciocambiodindns\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|c:\\users\\vygde\\source\\repos\\serviciocambiodindns\\serviciocambiodindns\\services\\servicecollectionquartzconfiguratorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F58ED5-A925-4113-BCB9-0503A0DC3AE9}|ServicioCambioDinDNS\\ServicioCambioDinDNS.csproj|solutionrelative:serviciocambiodindns\\services\\servicecollectionquartzconfiguratorextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Worker.cs",
+              "RelativeDocumentMoniker": "ServicioCambioDinDNS\\Worker.cs",
+              "ToolTip": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Worker.cs",
+              "RelativeToolTip": "ServicioCambioDinDNS\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:11:38.375Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Program.cs",
+              "RelativeDocumentMoniker": "ServicioCambioDinDNS\\Program.cs",
+              "ToolTip": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Program.cs",
+              "RelativeToolTip": "ServicioCambioDinDNS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:12:53.67Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\appsettings.json",
+              "RelativeDocumentMoniker": "ServicioCambioDinDNS\\appsettings.json",
+              "ToolTip": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\appsettings.json",
+              "RelativeToolTip": "ServicioCambioDinDNS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T19:15:48.052Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckDinDNS.cs",
+              "DocumentMoniker": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Job\\CheckDinDNS.cs",
+              "RelativeDocumentMoniker": "ServicioCambioDinDNS\\Job\\CheckDinDNS.cs",
+              "ToolTip": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Job\\CheckDinDNS.cs",
+              "RelativeToolTip": "ServicioCambioDinDNS\\Job\\CheckDinDNS.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAApwHMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:14:54.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Tools\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "ServicioCambioDinDNS\\Tools\\HttpClientHelper.cs",
+              "ToolTip": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Tools\\HttpClientHelper.cs",
+              "RelativeToolTip": "ServicioCambioDinDNS\\Tools\\HttpClientHelper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwCAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:11:40.061Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionQuartzConfiguratorExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Services\\ServiceCollectionQuartzConfiguratorExtensions.cs",
+              "RelativeDocumentMoniker": "ServicioCambioDinDNS\\Services\\ServiceCollectionQuartzConfiguratorExtensions.cs",
+              "ToolTip": "C:\\Users\\vygde\\source\\repos\\ServicioCambioDinDNS\\ServicioCambioDinDNS\\Services\\ServiceCollectionQuartzConfiguratorExtensions.cs",
+              "RelativeToolTip": "ServicioCambioDinDNS\\Services\\ServiceCollectionQuartzConfiguratorExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T19:14:13.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
